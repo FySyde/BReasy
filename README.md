@@ -1,3 +1,5 @@
+![BReasy — Record. Capture. Remember.](banner.png)
+
 # BReasy!
 
 A portable desktop utility for Windows 10 and Windows 11 (64-bit).
